@@ -53,6 +53,11 @@
 <!--            <artifactId>yudao-module-bpm-impl-activiti</artifactId>-->
 <!--            <version>${revision}</version>-->
 <!--        </dependency>-->
+        <dependency>
+            <groupId>cn.iocoder.boot</groupId>
+            <artifactId>asaki-module-itaxbill-impl</artifactId>
+            <version>${revision}</version>
+        </dependency>
 
         <!-- spring boot 配置所需依赖 -->
         <dependency>
